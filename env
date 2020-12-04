@@ -1,3 +1,0 @@
-package global.env
-
-prod-namespace := "something"
